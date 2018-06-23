@@ -1,0 +1,29 @@
+{
+  "name": "twitt3r-db",
+  "version": "1.0.0",
+  "description": "database layer to support twitter API rest services",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramarulandac/twitt3r-db.git"
+  },
+  "keywords": [
+    "db",
+    "twitt3r"
+  ],
+  "author": "init.author.email",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ramarulandac/twitt3r-db/issues"
+  },
+  "homepage": "https://github.com/ramarulandac/twitt3r-db#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.25.0",
+    "mongodb": "^3.0.10",
+    "uuid-base62": "^0.1.0"
+  }
+}
